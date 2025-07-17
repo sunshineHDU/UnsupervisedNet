@@ -1,6 +1,6 @@
 # UnsupervisedNet
 
-## the implementation of "Unsupervised Monocular Depth Estimation From Light Field Image"
+[**Wenhui Zhou**](https://faculty.hdu.edu.cn/jsjxy/zwh_en/main.htm), Enci Zhou, Gaoming Liu, Lili Lin, Andrew Lumsdaine. [**Unsupervised Monocular Depth Estimation from Light Field Image**](https://doi.org/10.1109/TIP.2019.2944343), IEEE Transactions on Image Processing, 2020, 29: 1606-1617. 
 
 - download the [model](https://drive.google.com/file/d/1tAT0i4Wpa5zaym4Ath2BAiGkxHAcx2sD/view?usp=sharing) and [evaluation_toolkit](https://drive.google.com/file/d/1Q69Bb32RAiV25ILDgIvZSydP1BMQYUVY/view?usp=sharing)
 - unzip the model and evaluation_toolkit in root directory
